@@ -2,13 +2,6 @@
 
 >HW_1
 
->Создать запросы в Postman.
-
->Protocol: http
-
->IP: 162.55.220.72
-
->Port: 5005
 
 **EP_1**
 
@@ -193,7 +186,7 @@ salary: int
 ```
 {
 	"info": {
-		"_postman_id": "f1ee9ed3-29d3-4818-9373-1b20d8428087",
+		"_postman_id": "tester",
 		"name": "group27",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
