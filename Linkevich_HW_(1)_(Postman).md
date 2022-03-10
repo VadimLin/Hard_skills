@@ -2,7 +2,6 @@
 
 >HW_1
 
-
 **EP_1**
 
 >Method: GET
