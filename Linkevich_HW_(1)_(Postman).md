@@ -2,7 +2,10 @@
 
 >HW_1
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Postman
 **EP_1**
 
 >Method: GET
@@ -212,7 +215,7 @@ salary: int
 					"query": [
 						{
 							"key": "name",
-							"value": "Vadim"
+							"value": "vadim"
 						},
 						{
 							"key": "age",
