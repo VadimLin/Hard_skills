@@ -3,9 +3,12 @@
 >HW_1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> Postman
+=======
+>>>>>>> 89b302f4ebecac4f416d5d54ba98e7b9c4737806
 **EP_1**
 
 >Method: GET
