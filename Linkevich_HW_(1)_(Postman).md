@@ -185,7 +185,7 @@ salary: int
 ```
 {
 	"info": {
-		"_postman_id": "tester",
+		"_postman_id": "",
 		"name": "group27",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -211,7 +211,7 @@ salary: int
 					"query": [
 						{
 							"key": "name",
-							"value": "vadim"
+							"value": "Vadim"
 						},
 						{
 							"key": "age",
