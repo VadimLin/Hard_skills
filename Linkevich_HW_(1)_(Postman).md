@@ -1,11 +1,7 @@
 >Postman.
 
 >HW_1
-
-<<<<<<< HEAD
-
-=======
->>>>>>> Postman
+>
 **EP_1**
 
 >Method: GET
