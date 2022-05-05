@@ -12,7 +12,7 @@
 
 >Зайти в папку ===== _cd terminal1_
 
->Создать 1 файл ===== _copy con file.txt "Nice job!" или nul>file.txt (пустой файл)_ 
+>Создать 1 файл ===== _copy con file.txt "Excellent job!" или nul>file.txt (пустой файл)_ 
 
 >Создать 1 файл ===== _copy con file1.txt "Good job!" или nul>file1.txt (пустой файл)_ 
 
